@@ -95,5 +95,3 @@ Overflow is detected by comparing the last two carry outputs (`c1`, `c0`):
 
 - `2bit_comparator.circ` – Logisim circuit file  
 - `README.md` – This documentation
-
-> 💡 If you'd like to share the `.circ` file publicly, consider uploading it to a platform (e.g., GitHub, Google Drive) and update this README with the link.
